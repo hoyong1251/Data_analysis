@@ -1,0 +1,13 @@
+빅데이터 분석기사 실기 준비 (6/25 합격 목표)
+
+1. 인프런 무료 강의
+https://www.inflearn.com/course/%EB%B9%85%EB%B6%84%EA%B8%B0-%EC%8B%9C%ED%97%98%EC%8B%A4%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC
+
+2. 캐글
+https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr
+
+3. 데이터 마님
+https://www.datamanim.com/dataset/03_dataq/re.html
+
+4. 유튜브
+https://www.youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-
